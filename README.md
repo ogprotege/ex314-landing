@@ -45,3 +45,32 @@ ex314.ai is a Catholic theological AI assistant guided by Exodus 3:14 ("I AM WHO
 - **Accessibility**: Designed with accessibility in mind
 
 ## Project Structure
+
+ex314.ai/
+├── app/
+│   ├── chat/                  # Chat interface
+│   │   └── page.tsx           # Main chat page
+│   ├── resources/             # Resources section
+│   │   └── page.tsx           # Resources page
+│   ├── prayers/               # Prayers section
+│   │   └── page.tsx           # Prayers page
+│   ├── calendar/              # Liturgical calendar
+│   │   └── page.tsx           # Calendar page
+│   ├── components/            # Shared components
+│   │   ├── layout/            # Layout components
+│   │   │   ├── site-header.tsx
+│   │   │   ├── site-footer.tsx
+│   │   │   └── navigation.tsx
+│   │   └── ui/                # UI components
+│   ├── globals.css            # Global styles
+│   ├── layout.tsx             # Root layout
+│   ├── client-layout.tsx      # Client-side layout wrapper
+│   └── page.tsx               # Landing page
+├── public/                    # Static assets
+│   └── chi-ro.png             # Chi-Rho symbol
+├── lib/                       # Utility functions
+├── next.config.js             # Next.js configuration
+├── package.json               # Dependencies and scripts
+├── tailwind.config.js         # Tailwind CSS configuration
+├── tsconfig.json              # TypeScript configuration
+└── README.md                  # Project documentation
