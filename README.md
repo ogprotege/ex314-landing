@@ -434,7 +434,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For questions, suggestions, or feedback, please contact:
 
 - Email: [notapharisee@ex314.ai](mailto:notapharisee@ex314.ai)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- GitHub: [Your GitHub Profile](https://github.com/ogprotege)
 
 
 ---
